@@ -1,4 +1,3 @@
-```markdown
 # PDF Conversational AI with LangChain and FAISS
 
 ![image](https://github.com/user-attachments/assets/212791f1-280a-4cb9-a207-f77dec2232d5)
