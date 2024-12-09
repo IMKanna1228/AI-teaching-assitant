@@ -168,5 +168,3 @@ This project is licensed under the MIT License.
 - **FAISS**: For efficient vector-based storage and retrieval.
 - **Streamlit**: For an easy-to-use interactive interface.
 ```
-
-This **README.md** provides a comprehensive explanation of your project, including setup, usage, and customization options, while maintaining a user-friendly structure. Let me know if you need any further modifications!
