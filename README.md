@@ -167,4 +167,3 @@ This project is licensed under the MIT License.
 - **LangChain**: For providing tools for conversational retrieval.
 - **FAISS**: For efficient vector-based storage and retrieval.
 - **Streamlit**: For an easy-to-use interactive interface.
-```
